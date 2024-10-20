@@ -44,6 +44,13 @@ Ready to rock? Here’s how to get started:
 2. Add your favorite tracks and let the good times roll!
 3. Use the controls to play, pause, or skip songs like a pro DJ.
 
+## Output Video
+
+
+https://github.com/user-attachments/assets/9ca1a57b-2f0b-475c-8ae3-fcf5b7367c9d
+
+
+
 ## Contributing
 
 Want to join the fun? Here’s how:
